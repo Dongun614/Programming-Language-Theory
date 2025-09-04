@@ -2137,3 +2137,12 @@ INFO: Unsupported notification method: $/setTrace
 2025.09.04 10:56:51 INFO  Connected to Scala CLI server v1.8.5
 2025.09.04 10:56:58 INFO  compiling programming-language-theory_d5c0a6989e (1 scala source)
 2025.09.04 10:57:16 INFO  time: compiled Programming-Language-Theory_d5c0a6989e in 18s
+2025.09.04 10:57:28 INFO  Created report: Optional[file:///Users/mac/Desktop/Programming-Language-Theory/jar:file:/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/lib/src.zip!/jdk.javadoc/jdk/javadoc/internal/doclets/formats/html/HtmlConfiguration.java]
+2025.09.04 10:57:28 INFO  Java indexer failed with and exception. (full report at: "/Users/mac/Desktop/Programming-Language-Theory/.metals/.reports/metals-full/2025-09-04/r_failed-idex-java_10-57-28-770.md")
+2025.09.04 10:57:31 WARN  Could not find semantic tokens for: file:///Users/mac/Desktop/Programming-Language-Theory/Main.scala
+2025.09.04 10:57:50 INFO  time: indexed workspace in 54s
+2025.09.04 10:57:50 INFO  Scala CLI started for /Users/mac/Desktop/Programming-Language-Theory
+2025.09.04 10:57:51 WARN  no build tool detected in workspace '/Users/mac/Desktop/Programming-Language-Theory'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.09.04 10:57:51 WARN  Build server is not auto-connectable.
+2025.09.04 10:57:52 WARN  Could not find semantic tokens for: file:///Users/mac/Desktop/Programming-Language-Theory/Main.scala
+2025.09.04 10:57:54 WARN  Could not find semantic tokens for: file:///Users/mac/Desktop/Programming-Language-Theory/Main.scala
